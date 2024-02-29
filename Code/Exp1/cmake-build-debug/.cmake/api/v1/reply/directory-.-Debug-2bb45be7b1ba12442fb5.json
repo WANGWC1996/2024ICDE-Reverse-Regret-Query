@@ -1,0 +1,511 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 688,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 713,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 721,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 746,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 746,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 746,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 746,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 749,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 750,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 751,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 752,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 753,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 754,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 755,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 756,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 757,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"qhull"
+			],
+			"targetId" : "qhull::@6890427a1f51a3e7e1df",
+			"targetIndex" : 4,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"rbox"
+			],
+			"targetId" : "rbox::@6890427a1f51a3e7e1df",
+			"targetIndex" : 11,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"qconvex"
+			],
+			"targetId" : "qconvex::@6890427a1f51a3e7e1df",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"qdelaunay"
+			],
+			"targetId" : "qdelaunay::@6890427a1f51a3e7e1df",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"qvoronoi"
+			],
+			"targetId" : "qvoronoi::@6890427a1f51a3e7e1df",
+			"targetIndex" : 10,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"qhalf"
+			],
+			"targetId" : "qhalf::@6890427a1f51a3e7e1df",
+			"targetIndex" : 3,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libqhull_rd.8.0.2.dylib",
+				"libqhull_rd.8.0.dylib"
+			],
+			"targetId" : "qhull_r::@6890427a1f51a3e7e1df",
+			"targetIndex" : 6,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libqhull_rd.dylib"
+			],
+			"targetId" : "qhull_r::@6890427a1f51a3e7e1df",
+			"targetIndex" : 6,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libqhullcpp_d.a"
+			],
+			"targetId" : "qhullcpp::@6890427a1f51a3e7e1df",
+			"targetIndex" : 7,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libqhullstatic_d.a"
+			],
+			"targetId" : "qhullstatic::@6890427a1f51a3e7e1df",
+			"targetIndex" : 8,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libqhullstatic_rd.a"
+			],
+			"targetId" : "qhullstatic_r::@6890427a1f51a3e7e1df",
+			"targetIndex" : 9,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/Qhull",
+			"exportName" : "QhullTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "qhull::@6890427a1f51a3e7e1df",
+					"index" : 4
+				},
+				{
+					"id" : "rbox::@6890427a1f51a3e7e1df",
+					"index" : 11
+				},
+				{
+					"id" : "qconvex::@6890427a1f51a3e7e1df",
+					"index" : 1
+				},
+				{
+					"id" : "qdelaunay::@6890427a1f51a3e7e1df",
+					"index" : 2
+				},
+				{
+					"id" : "qvoronoi::@6890427a1f51a3e7e1df",
+					"index" : 10
+				},
+				{
+					"id" : "qhalf::@6890427a1f51a3e7e1df",
+					"index" : 3
+				},
+				{
+					"id" : "qhull_r::@6890427a1f51a3e7e1df",
+					"index" : 6
+				},
+				{
+					"id" : "qhullcpp::@6890427a1f51a3e7e1df",
+					"index" : 7
+				},
+				{
+					"id" : "qhullstatic::@6890427a1f51a3e7e1df",
+					"index" : 8
+				},
+				{
+					"id" : "qhullstatic_r::@6890427a1f51a3e7e1df",
+					"index" : 9
+				}
+			],
+			"paths" : 
+			[
+				"CMakeFiles/Export/lib/cmake/Qhull/QhullTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Devel",
+			"destination" : "lib/cmake/Qhull",
+			"paths" : 
+			[
+				"cmake-build-debug/QhullExport/QhullConfig.cmake",
+				"cmake-build-debug/QhullExport/QhullConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Devel",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"cmake-build-debug/qhull_rd.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Devel",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"cmake-build-debug/qhullstatic_d.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Devel",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"cmake-build-debug/qhullstatic_rd.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Devel",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"cmake-build-debug/qhullcpp_d.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "include/libqhull",
+			"paths" : 
+			[
+				"src/libqhull/libqhull.h",
+				"src/libqhull/geom.h",
+				"src/libqhull/io.h",
+				"src/libqhull/mem.h",
+				"src/libqhull/merge.h",
+				"src/libqhull/poly.h",
+				"src/libqhull/qhull_a.h",
+				"src/libqhull/qset.h",
+				"src/libqhull/random.h",
+				"src/libqhull/stat.h",
+				"src/libqhull/user.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "include/libqhull",
+			"paths" : 
+			[
+				"src/libqhull/DEPRECATED.txt"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "include/libqhull_r",
+			"paths" : 
+			[
+				"src/libqhull_r/libqhull_r.h",
+				"src/libqhull_r/geom_r.h",
+				"src/libqhull_r/io_r.h",
+				"src/libqhull_r/mem_r.h",
+				"src/libqhull_r/merge_r.h",
+				"src/libqhull_r/poly_r.h",
+				"src/libqhull_r/qhull_ra.h",
+				"src/libqhull_r/qset_r.h",
+				"src/libqhull_r/random_r.h",
+				"src/libqhull_r/stat_r.h",
+				"src/libqhull_r/user_r.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "include/libqhullcpp",
+			"paths" : 
+			[
+				"src/libqhullcpp/Coordinates.h",
+				"src/libqhullcpp/functionObjects.h",
+				"src/libqhullcpp/PointCoordinates.h",
+				"src/libqhullcpp/Qhull.h",
+				"src/libqhullcpp/QhullError.h",
+				"src/libqhullcpp/QhullFacet.h",
+				"src/libqhullcpp/QhullFacetList.h",
+				"src/libqhullcpp/QhullFacetSet.h",
+				"src/libqhullcpp/QhullHyperplane.h",
+				"src/libqhullcpp/QhullIterator.h",
+				"src/libqhullcpp/QhullLinkedList.h",
+				"src/libqhullcpp/QhullPoint.h",
+				"src/libqhullcpp/QhullPoints.h",
+				"src/libqhullcpp/QhullPointSet.h",
+				"src/libqhullcpp/QhullQh.h",
+				"src/libqhullcpp/QhullRidge.h",
+				"src/libqhullcpp/QhullSet.h",
+				"src/libqhullcpp/QhullSets.h",
+				"src/libqhullcpp/QhullStat.h",
+				"src/libqhullcpp/QhullUser.h",
+				"src/libqhullcpp/QhullVertex.h",
+				"src/libqhullcpp/QhullVertexSet.h",
+				"src/libqhullcpp/RboxPoints.h",
+				"src/libqhullcpp/RoadError.h",
+				"src/libqhullcpp/RoadLogEvent.h",
+				"src/qhulltest/RoadTest.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "share/man/man1",
+			"paths" : 
+			[
+				{
+					"from" : "html/qhull.man",
+					"to" : "qhull.1"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "share/man/man1",
+			"paths" : 
+			[
+				{
+					"from" : "html/rbox.man",
+					"to" : "rbox.1"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "share/doc/qhull",
+			"paths" : 
+			[
+				"README.txt",
+				"REGISTER.txt",
+				"Announce.txt",
+				"COPYING.txt",
+				"index.htm"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "share/doc/qhull/html",
+			"paths" : 
+			[
+				{
+					"from" : "html",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "share/doc/qhull/src",
+			"paths" : 
+			[
+				"src/Changes.txt"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

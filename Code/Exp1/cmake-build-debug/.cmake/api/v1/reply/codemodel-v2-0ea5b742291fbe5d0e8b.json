@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2bb45be7b1ba12442fb5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qhull",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "libqhull::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libqhull-Debug-2de2de6269488441b2f7.json",
+					"name" : "libqhull",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qconvex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qconvex-Debug-0b53eac3c5f392bf7b3d.json",
+					"name" : "qconvex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qdelaunay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qdelaunay-Debug-ef327423975f392c36b4.json",
+					"name" : "qdelaunay",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhalf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhalf-Debug-35e88bf4e9b1e67f3975.json",
+					"name" : "qhalf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhull::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhull-Debug-34524a8bc8697ddac552.json",
+					"name" : "qhull",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhull_p::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhull_p-Debug-fa358fdd7e308570f00c.json",
+					"name" : "qhull_p",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhull_r::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhull_r-Debug-e66b23811479eebb5f8e.json",
+					"name" : "qhull_r",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullcpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullcpp-Debug-226cd622eef48acac125.json",
+					"name" : "qhullcpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullstatic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullstatic-Debug-a02b110df6a4ffa32b94.json",
+					"name" : "qhullstatic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullstatic_r::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullstatic_r-Debug-76be52cf45741025dc39.json",
+					"name" : "qhullstatic_r",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qvoronoi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qvoronoi-Debug-888d058912a6ec1faa9a.json",
+					"name" : "qvoronoi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbox-Debug-4517b5e9a6f5924ab55a.json",
+					"name" : "rbox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run-Debug-b563bcd40120c22dc102.json",
+					"name" : "run",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-dffa875295cd6919331e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/wangweicheng/Dropbox/My Mac (王伟程的MacBook Pro)/Desktop/reverse_kregret/VLDB_submission/upload/Code/Exp1/cmake-build-debug",
+		"source" : "/Users/wangweicheng/Dropbox/My Mac (王伟程的MacBook Pro)/Desktop/reverse_kregret/VLDB_submission/upload/Code/Exp1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,219 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qconvex"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"install",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 556,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 688,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 557,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 773,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 774,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 775,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 776,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 777,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 778,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 780,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/Users/wangweicheng/Dropbox/My Mac (王伟程的MacBook Pro)/Desktop/reverse_kregret/VLDB_submission/upload/Code/Exp1/src"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/Users/wangweicheng/Dropbox/My Mac (王伟程的MacBook Pro)/Desktop/reverse_kregret/VLDB_submission/upload/Code/Exp1/."
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/wangweicheng/Dropbox/My Mac (王伟程的MacBook Pro)/Desktop/reverse_kregret/VLDB_submission/upload/Code/Exp1/Others"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/wangweicheng/Dropbox/My Mac (王伟程的MacBook Pro)/Desktop/reverse_kregret/VLDB_submission/upload/Code/Exp1/qhull"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/Users/wangweicheng/Dropbox/My Mac (王伟程的MacBook Pro)/Desktop/reverse_kregret/VLDB_submission/upload/Code/Exp1/QuadProg"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/wangweicheng/Dropbox/My Mac (王伟程的MacBook Pro)/Desktop/reverse_kregret/VLDB_submission/upload/Code/Exp1/structure"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/wangweicheng/Dropbox/My Mac (王伟程的MacBook Pro)/Desktop/reverse_kregret/VLDB_submission/upload/Code/Exp1/UH"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/usr/local/Cellar/glpk/5.0/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "qhullstatic::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "qconvex::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "libqhullstatic_d.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lm",
+				"role" : "libraries"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "qconvex",
+	"nameOnDisk" : "qconvex",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/qconvex/qconvex.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}
