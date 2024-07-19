@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-49858c660cb41518f952.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qhull",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "libqhull::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libqhull-Debug-6e14f6857e3b1ac7fd68.json",
+					"name" : "libqhull",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qconvex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qconvex-Debug-39e1951574ea6dc4879c.json",
+					"name" : "qconvex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qdelaunay::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qdelaunay-Debug-a610f854879679490bfa.json",
+					"name" : "qdelaunay",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhalf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhalf-Debug-e6ec4a6a5b4357f065b4.json",
+					"name" : "qhalf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhull::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhull-Debug-2e4adc53f14d9bfe4fcb.json",
+					"name" : "qhull",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhull_p::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhull_p-Debug-bcfe6fb8e2cee5ce24c2.json",
+					"name" : "qhull_p",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhull_r::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhull_r-Debug-61c36e03e731e63e30dd.json",
+					"name" : "qhull_r",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullcpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullcpp-Debug-42a5881ee5b44633cb9f.json",
+					"name" : "qhullcpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullstatic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullstatic-Debug-717c3afba9925399f1a2.json",
+					"name" : "qhullstatic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qhullstatic_r::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qhullstatic_r-Debug-6bd67f5d13cd8b203cb8.json",
+					"name" : "qhullstatic_r",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qvoronoi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qvoronoi-Debug-529d97003f03f8cbe863.json",
+					"name" : "qvoronoi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbox-Debug-1a41c071e063ce7c6ed5.json",
+					"name" : "rbox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run-Debug-8db920f6c91d4ab5e892.json",
+					"name" : "run",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-dffa875295cd6919331e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/wangweicheng/Documents/GitHub/2024ICDE-Reverse-Regret-Query/Code/Exp/cmake-build-debug",
+		"source" : "/Users/wangweicheng/Documents/GitHub/2024ICDE-Reverse-Regret-Query/Code/Exp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

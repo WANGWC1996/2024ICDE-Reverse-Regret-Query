@@ -1,10 +1,11 @@
 Readme (Reverse Regret Query)
 ===================================
-This package contains three directories 
-1. Directory "Exp1", which contains the source codes of the following algorithms.
-	a. Sweeping
-	b. E-PT
-	c. A-PC 
-	d. LP-CTA
-2. Directory "Exp2", which contains the source code of algorithm PBA+.
-3. Directory "UserStudy", which contains the source code for the user study.
+1. This package contains two directories. 
+   (1). Directory "Exp", which contains the source codes of the following algorithms.
+	  a. Sweeping
+	  b. E-PT
+	  c. A-PC 
+	  d. LP-CTA
+   (2). Directory "UserStudy", which contains the source code for the user study.
+
+2. The source code of algorithm PBA+ can be found in the following link. https://github.com/cupermanrose/tau-LevelIndex/ 
